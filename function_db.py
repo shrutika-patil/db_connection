@@ -35,3 +35,10 @@ def execute_write_query(sql_query):
     finally:
         cursor.close()
         conn.close()
+        
+        
+        
+        
+        
+        
+       # gjyfftf
